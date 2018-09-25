@@ -2,9 +2,9 @@
 // @name         YIFI linker for Letterboxd
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @license https://creativecommons.org/licenses/by-sa/4.0/
 // @description  Add links for YIFI (yts.am) torrent site on the wetch services
 // @author       Gonzalo Rocha
-// @license GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt.
 // @match        https://letterboxd.com/film/*
 // @require https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js
 // ==/UserScript==
