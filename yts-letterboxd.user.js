@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @license MIT
-// @description  Add links for YIFI (yts.am) torrent site on the wetch services
+// @description  Add links for YIFI (yts.am) torrent site on the watching services
 // @author       Gonzalo Rocha
 // @match        https://letterboxd.com/film/*
 // @require https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js
